@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import NavBar from './NavBar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import MovieList from './MovieList';
+import MovieList from './movie/MovieList';
 import Home from './Home';
 
 function App() {
